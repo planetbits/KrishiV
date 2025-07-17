@@ -1,4 +1,4 @@
-# KrishiV
+# KrishiV (Beta Version)
 
  **कृषी भंडार व्यवस्थापन - Krishi Vyavasthapan**
  
@@ -10,3 +10,5 @@ Efficiently manage your agricultural products, track inventory, and monitor tran
  - Analytics Dashboard
  
  ---
+Note : Release have only trial Version available.
+Please contanct for more information..
