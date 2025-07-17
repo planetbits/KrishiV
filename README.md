@@ -10,5 +10,5 @@ Efficiently manage your agricultural products, track inventory, and monitor tran
  - Analytics Dashboard
  
  ---
-Note : Release have only trial Version available.
-Please contanct for more information..
+Note : Release have only trial version available.
+Please contanct us for more information.. 
