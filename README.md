@@ -16,7 +16,7 @@ Please contanct us for more information..
 
 
 
-**KrishiV App Setup**
+## **KrishiV App Setup**
 
 - Create Folder - `KrishiV`
 - Download App - https://github.com/planetbits/KrishiV/releases
