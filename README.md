@@ -21,17 +21,17 @@ Please contanct us for more information..
 - Create Folder - `KrishiV`
 - Download App - https://github.com/planetbits/KrishiV/releases
 - Move `KrishiV.exe` file into KrishiV Folder
-- Rune exe file 
-- In browser open if not auto opened-  http://localhost:5050/
+- Run `KrishiV.exe` 
+- In browser open URL (if not auto opened)-  http://localhost:5050/
 
 ## **For Windows background start**
 
 - Download - https://nssm.cc/release/nssm-2.24.zip
-- open cmd/poershell
+- Open cmd/poershell
   - .\nssm.exe install KrishiV
 - Select/browse - exe file
 - In detail tab - name service `KrishiV`
-- OK
+- Click OK
 - Start service
 
   
